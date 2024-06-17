@@ -41,5 +41,5 @@
   "devDependencies": {
     "tailwindcss": "^3.4.1"
   },
-  "proxy": "https://django-deploy-seminar-pj.fly.dev/" //연결하고 싶은 백엔드가 배포된 서버일 경우!
+  "proxy": "https://django-deploy-seminar-pj.fly.dev/"
 }
